@@ -1,4 +1,4 @@
-# note-app-frontend
+# idk-frontend
 
 ## Project setup
 ```
